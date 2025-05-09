@@ -1,6 +1,11 @@
 # https://registry.terraform.io/providers/hashicorp/google/latest/docs
 provider "google" {
-  project = "thailand-433607"
+  project = "fun-project-20"
   region  = "us-central1"
-  credentials = "thailand-433607-6c00ddb70942.json"
+  credentials = "credentials-5-03-25.json"
 }
+
+# Don't ever give up
+
+# You're so close to what you want
+# Stay low and keep working hard 

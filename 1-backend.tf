@@ -1,7 +1,7 @@
 # https://www.terraform.io/language/settings/backends/gcs
 terraform {
   backend "gcs" {
-    bucket = "backendformytf"
+    bucket = "hwcbucket"
     prefix = "terraform/state"
   }
   required_providers {
